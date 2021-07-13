@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @devroyvs, but you can call me Roy.
+- 👀 I’m interested in development in Swift, Java and other languages.
+- 🌱 I’m currently learning how to program in Swift for developing iOS apps.
+- 💞️ I’m looking to collaborate on projects to help each other out in developing our skills.
+- 📫 How to reach me: dev@royvs.nl
